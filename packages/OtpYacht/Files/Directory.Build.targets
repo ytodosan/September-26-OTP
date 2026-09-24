@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/OtpYacht/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/OtpYacht/Data/**" />
+		<Compile Remove="$(PkgPath)/OtpYacht/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/OtpYacht/Schemas\**" />
+		<Compile Remove="$(PkgPath)/OtpYacht/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OtpYacht/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OtpYacht/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OtpYacht/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OtpYacht/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/OtpYacht/Resources/**" />
+		<None Remove="$(PkgPath)/OtpYacht/Assemblies/**" />
+		<None Remove="$(PkgPath)/OtpYacht/Data/**" />
+		<None Remove="$(PkgPath)/OtpYacht/SqlScripts/**" />
+		<None Remove="$(PkgPath)/OtpYacht/Schemas/**" />
+		<None Remove="$(PkgPath)/OtpYacht/Resources/**" />
+  </ItemGroup>
+</Project>
