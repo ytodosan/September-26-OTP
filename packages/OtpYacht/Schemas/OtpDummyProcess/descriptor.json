@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3db49a36-2e0c-4f2c-9cd9-6fb29e634ca4",
+    "Name": "OtpDummyProcess",
+    "ModifiedOnUtc": "\/Date(1790250889000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Dummy process",
+    "DependsOn": []
+  }
+}
