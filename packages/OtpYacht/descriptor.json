@@ -3,10 +3,22 @@
     "UId": "d9e4c7de-f5de-45d6-a100-9cb94d70f7d4",
     "Name": "OtpYacht",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1731959136000)\/",
+    "ModifiedOnUtc": "\/Date(1790341031000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/OtpYacht.csproj",
     "Description": "#OriginalMaintainer:Customer",
-    "DependsOn": []
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "65924567-4ffb-4690-beeb-ebea4a8674ff",
+        "Name": "OtpMain",
+        "Type": 1
+      }
+    ]
   }
 }

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c80782d6-3b50-4826-ade7-90951be807d2",
+    "Name": "OtpDNBInputMini",
+    "ModifiedOnUtc": "\/Date(1790946454000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "DNB input",
+    "DependsOn": []
+  }
+}

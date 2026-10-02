@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Category in yacht" />
+			<Item Name="Columns.OtpCategory.Caption" Value="Category" />
+			<Item Name="Columns.OtpParentYacht.Caption" Value="Parent yacht" />
+			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "caee3883-7909-47f0-ab1d-673cfbb283c1",
+    "Name": "OtpServiceDNB",
+    "ModifiedOnUtc": "\/Date(1790946167000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "DNB service",
+    "DependsOn": []
+  }
+}

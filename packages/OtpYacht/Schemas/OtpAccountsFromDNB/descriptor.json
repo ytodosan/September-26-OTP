@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6da4f420-d743-4156-962f-60e0450daddb",
+    "Name": "OtpAccountsFromDNB",
+    "ModifiedOnUtc": "\/Date(1790947162000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Accounts from DNB",
+    "DependsOn": []
+  }
+}

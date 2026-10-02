@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "28407e7f-acd1-4db5-880e-41d79e72cb0e",
+    "Name": "OtpDNBAccountInsert",
+    "ModifiedOnUtc": "\/Date(1790948252000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Add an account from DNB",
+    "DependsOn": []
+  }
+}

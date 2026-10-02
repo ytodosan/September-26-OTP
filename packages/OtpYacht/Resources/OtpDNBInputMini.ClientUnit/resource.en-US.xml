@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="DNB input" />
+			<Item Name="LocalizableStrings.Button_prn55ja_caption.Value" Value="Cancel" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Enter request details" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="OK" />
+			<Item Name="Parameters.71d28c83-9052-224f-d097-e2ab99f973a9.Caption" Value="Company name" />
+			<Item Name="Parameters.e4f5691b-5902-f6eb-ddfc-60f1276cb7a5.Caption" Value="Country code (ISO, 2 letters)" />
+		</Items>
+	</Group>
+</Resources>

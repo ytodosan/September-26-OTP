@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e1d29eaf-21a3-4b26-bbab-ea0132988253",
+    "Name": "OtpAvgPrice",
+    "ModifiedOnUtc": "\/Date(1790855572000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Average price",
+    "DependsOn": []
+  }
+}

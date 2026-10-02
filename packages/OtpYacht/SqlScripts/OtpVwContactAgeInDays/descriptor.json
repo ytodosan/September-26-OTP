@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "984e53dc-47b5-5efa-19e2-323d8a3a9dea",
+    "Name": "OtpVwContactAgeInDays",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1790344044000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

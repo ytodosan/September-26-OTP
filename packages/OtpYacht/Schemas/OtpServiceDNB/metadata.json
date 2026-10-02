@@ -1,0 +1,127 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ServiceSchemaManager",
+      "UId": "caee3883-7909-47f0-ab1d-673cfbb283c1",
+      "A2": "OtpServiceDNB",
+      "A5": "27959a22-fadd-4464-85c2-11ce38e26d88",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "d9e4c7de-f5de-45d6-a100-9cb94d70f7d4",
+      "B8": "10.0.0.858",
+      "IQ1": "https://api.service.dnb.com",
+      "IQ2": 1,
+      "IQ3": 5,
+      "IQ7": [],
+      "IQ4": [
+        {
+          "UId": "241078e1-cec1-435f-9b79-08075afffef1",
+          "A2": "OtpDNBLookupInfo",
+          "A3": "caee3883-7909-47f0-ab1d-673cfbb283c1",
+          "A4": "caee3883-7909-47f0-ab1d-673cfbb283c1",
+          "IR3": 5000,
+          "IR5": "null",
+          "IR1": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "092b082f-5a66-4322-a4e6-b9da41388521",
+                "A2": "OtpPName",
+                "IU1": "$.primaryName",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              },
+              {
+                "UId": "d01e12a6-8e77-45b0-bb4d-981a128ba18a",
+                "A2": "OtpCCode",
+                "IU1": "$.countryCode",
+                "IU2": "Text",
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": []
+              }
+            ],
+            "IT2": 2,
+            "IT1": "/companyLookup/lookupInfoByName"
+          },
+          "IR2": {
+            "IW2": 1,
+            "IW1": [
+              {
+                "UId": "5b12e550-923d-4246-bf99-e340c1006fe9",
+                "A2": "OtpCompanies",
+                "IU1": "$.companies",
+                "IU2": "Object",
+                "IU3": true,
+                "IU8": "item",
+                "IU4": 1,
+                "IU5": {
+                  "IV1": "null"
+                },
+                "IU6": [
+                  {
+                    "UId": "1cf3b2f8-3d38-476f-9cba-f11fd5d8e221",
+                    "A2": "OtpCCName",
+                    "IU1": "companyName",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "b1036e71-b936-430b-bd13-2e05bf92fd7b",
+                    "A2": "OtpCRNumber",
+                    "IU1": "registrationNumber",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "e8d46376-6a2a-45aa-ada9-cc757963bf2a",
+                    "A2": "OtpCAddress",
+                    "IU1": "address",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  },
+                  {
+                    "UId": "1a8af4b7-add0-4a9c-958b-ffcd0b65a1b4",
+                    "A2": "OtpCCity",
+                    "IU1": "city",
+                    "IU2": "Text",
+                    "IU8": "item",
+                    "IU4": 1,
+                    "IU5": {
+                      "IV1": "null"
+                    },
+                    "IU6": []
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

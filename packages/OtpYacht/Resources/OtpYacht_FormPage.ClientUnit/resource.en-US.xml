@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yacht form page" />
+			<Item Name="LocalizableStrings.Button_PushMe_caption.Value" Value="Push me" />
+			<Item Name="LocalizableStrings.Button_kdp51f6_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.CrewCountCannotBeLess.Value" Value="A vessel should be manned by at least 2 sailors" />
+			<Item Name="LocalizableStrings.EmailInput_CaptainEmail_caption.Value" Value="Email address" />
+			<Item Name="LocalizableStrings.EmailInput_CaptainEmail_label.Value" Value="Cap's email" />
+			<Item Name="LocalizableStrings.Input_CustomeAttributeTest_label.Value" Value="Text" />
+			<Item Name="LocalizableStrings.MenuItem_YachtService_caption.Value" Value="Yacht service" />
+			<Item Name="LocalizableStrings.MenuItem_lcvyyqq_caption.Value" Value="Avg price" />
+			<Item Name="LocalizableStrings.MultiSelect_Categories_label.Value" Value="Categories" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="The very minimum of a Yacht price is 500" />
+			<Item Name="LocalizableStrings.addRecord_d7nhpbi_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fc9dh7n_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_lwt136d_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_oz4uwy1_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

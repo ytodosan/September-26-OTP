@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "93699960-e734-e5e6-a353-78e4169778f2",
+    "Name": "OtpAdmuinUnitTRDisable",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1790683143000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

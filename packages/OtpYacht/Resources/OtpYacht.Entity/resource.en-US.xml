@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yacht" />
+			<Item Name="Columns.OtpCaptain.Caption" Value="Captain" />
+			<Item Name="Columns.OtpComment.Caption" Value="Comment" />
+			<Item Name="Columns.OtpCrewCount.Caption" Value="Crew count" />
+			<Item Name="Columns.OtpDriveType.Caption" Value="Drive type" />
+			<Item Name="Columns.OtpLength.Caption" Value="Length, ft" />
+			<Item Name="Columns.OtpManager.Caption" Value="Manager" />
+			<Item Name="Columns.OtpName.Caption" Value="Name" />
+			<Item Name="Columns.OtpPassengerCount.Caption" Value="Passenger count" />
+			<Item Name="Columns.OtpPicture.Caption" Value="Picture" />
+			<Item Name="Columns.OtpPrice.Caption" Value="Price per day, USD" />
+			<Item Name="Columns.OtpStatus.Caption" Value="Status" />
+			<Item Name="Columns.OtpTicketPrice.Caption" Value="Ticket price" />
+			<Item Name="Columns.OtpYachtNumber.Caption" Value="Yacht number" />
+			<Item Name="Description" Value="test" />
+		</Items>
+	</Group>
+</Resources>

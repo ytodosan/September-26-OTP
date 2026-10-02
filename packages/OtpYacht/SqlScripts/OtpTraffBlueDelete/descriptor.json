@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "bbd89251-b5ee-6adb-5d2d-3e9233518780",
+    "Name": "OtpTraffBlueDelete",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1790336377000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

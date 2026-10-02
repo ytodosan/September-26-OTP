@@ -1,0 +1,2 @@
+alter table SysAdminUnit
+enable trigger TRSysAdminUnitRoot

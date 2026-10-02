@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="DNB service" />
+			<Item Name="ServiceMethods.OtpDNBLookupInfo.Caption" Value="Lookup info" />
+			<Item Name="ServiceMethods.OtpDNBLookupInfo.Request.Parameters.OtpCCode.Caption" Value="CountryCode" />
+			<Item Name="ServiceMethods.OtpDNBLookupInfo.Request.Parameters.OtpPName.Caption" Value="PrimaryName" />
+			<Item Name="ServiceMethods.OtpDNBLookupInfo.Response.Parameters.OtpCompanies.Caption" Value="Companies" />
+			<Item Name="ServiceMethods.OtpDNBLookupInfo.Response.Parameters.OtpCompanies.ItemProperties.OtpCAddress.Caption" Value="Address" />
+			<Item Name="ServiceMethods.OtpDNBLookupInfo.Response.Parameters.OtpCompanies.ItemProperties.OtpCCName.Caption" Value="CompanyName" />
+			<Item Name="ServiceMethods.OtpDNBLookupInfo.Response.Parameters.OtpCompanies.ItemProperties.OtpCCity.Caption" Value="City" />
+			<Item Name="ServiceMethods.OtpDNBLookupInfo.Response.Parameters.OtpCompanies.ItemProperties.OtpCRNumber.Caption" Value="RegistrationNumber" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "9956d694-f091-5d69-44c7-76bb983d11e5",
+    "Name": "OtpAdminUnitTREnable",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1790683320000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

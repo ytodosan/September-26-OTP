@@ -1,3 +1,11 @@
 <Project>
-	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''"></ItemGroup>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/OtpYacht/Schemas/OtpCategoryInYacht/OtpCategoryInYacht.cs" Condition="Exists('$(PkgPath)/OtpYacht/Schemas/OtpCategoryInYacht/OtpCategoryInYacht.cs')" />
+		<Compile Include="$(PkgPath)/OtpYacht/Schemas/OtpDriveTypes/OtpDriveTypes.cs" Condition="Exists('$(PkgPath)/OtpYacht/Schemas/OtpDriveTypes/OtpDriveTypes.cs')" />
+		<Compile Include="$(PkgPath)/OtpYacht/Schemas/OtpTrafficLight/OtpTrafficLight.cs" Condition="Exists('$(PkgPath)/OtpYacht/Schemas/OtpTrafficLight/OtpTrafficLight.cs')" />
+		<Compile Include="$(PkgPath)/OtpYacht/Schemas/OtpVwContactAgeDays/OtpVwContactAgeDays.cs" Condition="Exists('$(PkgPath)/OtpYacht/Schemas/OtpVwContactAgeDays/OtpVwContactAgeDays.cs')" />
+		<Compile Include="$(PkgPath)/OtpYacht/Schemas/OtpYacht/OtpYacht.cs" Condition="Exists('$(PkgPath)/OtpYacht/Schemas/OtpYacht/OtpYacht.cs')" />
+		<Compile Include="$(PkgPath)/OtpYacht/Schemas/OtpYachtCategory/OtpYachtCategory.cs" Condition="Exists('$(PkgPath)/OtpYacht/Schemas/OtpYachtCategory/OtpYachtCategory.cs')" />
+		<Compile Include="$(PkgPath)/OtpYacht/Schemas/OtpYachtStatus/OtpYachtStatus.cs" Condition="Exists('$(PkgPath)/OtpYacht/Schemas/OtpYachtStatus/OtpYachtStatus.cs')" />
+	</ItemGroup>
 </Project>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "13e8285a-5098-49d4-9430-6a7436152b43",
+    "Name": "OtpYachtAvfPriceMini",
+    "ModifiedOnUtc": "\/Date(1790855095000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yacht avg price mini",
+    "DependsOn": []
+  }
+}
